@@ -5,4 +5,4 @@ Our repository includes a data folder with the raw initial data we used and the 
 
 To run our code navigate to the scripts folder to access the SQL and jupyter notebooks we used.
 
-To access the Python Data Cleaning files and Python Data Analysis files, you can use VS Code. For the SQL file, you can use VSCode or PostgreSQL. 
+To access the Python Data Cleaning files and Python Data Analysis files, you can use VS Code. For the SQL file, you can use VSCode or PostgreSQL. You can then download and read the csv files on the Jupyter Notebook so that you can run the code. 
